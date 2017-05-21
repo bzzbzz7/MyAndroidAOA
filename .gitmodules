@@ -1,0 +1,3 @@
+[submodule "myandroidlibrary"]
+	path = myandroidlibrary
+	url = git@github.com:bzzbzz7/myandroidlibrary.git
