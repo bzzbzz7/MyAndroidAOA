@@ -1,5 +1,6 @@
 [submodule "myandroidlibrary"]
-	path = myandroidlibrary	url = git@github.com:bzzbzz7/myandroidlibrary.git
+	path = myandroidlibrary
+	url = git@github.com:bzzbzz7/myandroidlibrary.git
 [submodule "thinking"]
 	path = thinking
 	url = git@github.com:bzzbzz7/thinking.git
