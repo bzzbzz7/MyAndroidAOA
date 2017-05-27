@@ -9,8 +9,6 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
 
-import com.squareup.picasso.Picasso;
-
 public class MainActivity extends Activity implements OnClickListener{
     Button bt_exit;
     Button bt_usbAccessory;
@@ -32,7 +30,7 @@ public class MainActivity extends Activity implements OnClickListener{
         bt_usbHost.setOnClickListener(this);
         bt_adbServer.setOnClickListener(this);
         iv_bg = (ImageView)findViewById(R.id.iv_bg);
-        Picasso.with(this).load("http://pic2016.5442.com:82/2016/0810/7/1.jpg").into(iv_bg);
+        //Picasso.with(this).load("http://pic2016.5442.com:82/2016/0810/7/1.jpg").into(iv_bg);
         
     }
     
